@@ -1,6 +1,5 @@
 nginx
-#nacos
-nacos
+nacos/nacos-server
 #mysql
 mysql
 #支持私库

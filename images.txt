@@ -8,5 +8,3 @@ xhofe/alist:latest
 nacos
 #mysql
 mysql
-#gateway
-gateway
